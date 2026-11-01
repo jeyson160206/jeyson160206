@@ -44,13 +44,11 @@
   <img src="https://raw.githubusercontent.com/jeyson160206/jeyson160206/main/sasha.gif" width="100%" alt="sasha" />
 </p>
 
-## 🐍 Contribuciones
-<img src="https://raw.githubusercontent.com/jeyson160206/jeyson160206/output/github-snake-dark.svg" width="100%" />
-
-## 💬 Frase del día
+## 📖 De *La metamorfosis*
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=2500&color=FF00CC&center=true&vCenter=true&width=750&height=60&lines=Una+ma%C3%B1ana%2C+Gregor+despert%C3%B3+convertido+en+un+bicho+enorme.;%C2%BFQu%C3%A9+me+ha+ocurrido%3F;No+era+un+sue%C3%B1o." alt="Frases de La metamorfosis" />
 </p>
+<p align="center"><sub>— Franz Kafka, <i>La metamorfosis</i></sub></p>
 
 ## 📲 Encuéntrame aquí
 <p align="center">
