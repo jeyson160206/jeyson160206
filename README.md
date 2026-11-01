@@ -17,10 +17,9 @@
 - ⚡ Pregúntame sobre: detección de objetos, bases de datos, o cualquier cosa de código
 
 ## 🎲 Datos curiosos
-- 🎮 Juego favorito: **ESCRIBE_AQUI**
-- 🎧 Música que escucho: **ESCRIBE_AQUI**
-- 🍕 Mi comida favorita: **ESCRIBE_AQUI**
-- 🎬 Anime / serie del momento: **ESCRIBE_AQUI**
+- 🎮 Juego favorito: **Cyberpunk**
+- 🎧 Música que escucho: **Dreamwave**
+- 🎬 Anime / serie del momento: **Cowboy bep bop**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,50:7b2ff7,100:ff00cc&height=3" />
 
@@ -42,10 +41,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:7b2ff7,100:00f7ff&height=3" />
 
-## 📊 Estadísticas
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeyson160206&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyson160206&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/jeyson160206/jeyson160206/main/sasha.gif" width="100%" alt="sasha" />
 </p>
 
 ## 🐍 Contribuciones
