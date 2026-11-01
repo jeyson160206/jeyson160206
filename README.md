@@ -35,7 +35,7 @@
 
 ## 🚀 Proyectos destacados
 - 💊 [Farmacia-Nova](https://github.com/jeyson160206/Farmacia-Nova) — Aplicación web en JavaScript
-- 🔐 [Loguin](https://github.com/jeyson160206/Loguin) — Sistema de login con Laravel
+- 🔐 [Deteccion Obj](https://github.com/jeyson160206/Diia_software) — Detección de Objetos
 <!-- Aquí agrega tus proyectos de YOLOv8 cuando los subas -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:7b2ff7,100:00f7ff&height=3" />
