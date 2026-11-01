@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:7b2ff7,100:00f7ff&height=240&section=header&text=Jason&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20%26%20AI%20Developer&descSize=22&descAlignY=60" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Hola%2C+soy+Jason+%F0%9F%91%8B;Desarrollador+de+software+e+IA;Visi%C3%B3n+por+computadora+con+YOLOv8+%F0%9F%91%81%EF%B8%8F;Full-stack+%2B+Cloud+%E2%98%81%EF%B8%8F;Construyendo+cosas+que+detectan+cosas+%F0%9F%9A%80" alt="Typing SVG" />
